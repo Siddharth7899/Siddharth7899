@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+-->
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
+<br>
+<h1 align="center">Siddharth Yadav this side  <img src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" width="120px">
+</h1>
 
 So, who I am
 - 🎓 Pursuing B.Tech in Information Technology
