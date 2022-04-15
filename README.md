@@ -18,9 +18,9 @@ So, who I am
 
 <a href="https://github.com/Siddharth7899/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth7899&layout=compact&theme=buefy&hide_border=true" /></a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharth7899&theme=github&count_private=true)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharth7899&theme=github&count_private=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Siddharth7899" alt="Siddharth7899" /></a> </p>
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/siddharth-yadav-472a62201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit-" height="30" width="40" /></a>
