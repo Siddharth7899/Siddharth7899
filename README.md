@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋
--->
 <h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
 <br>
 <h1 align="center">Siddharth Yadav this side  <img src="https://spinestaffing.com/wp-content/uploads/2021/03/giphy-6.gif" width="120px">
@@ -15,6 +13,7 @@ So, who I am
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="450" />
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth7899&theme=tokyonight&count_private=true)
+![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Siddharth7899&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 <a href="https://github.com/Siddharth7899/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth7899&layout=compact&theme=dark&hide_border=true" /></a>
 
@@ -32,6 +31,7 @@ So, who I am
 &emsp;
 <a target="_blank" href="mailto:sidyyadav7899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href="https://www.instagram.com/sid_yadav7899/"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 </p>
 
 <h3>Languages and Tools</h3>
