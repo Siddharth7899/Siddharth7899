@@ -21,13 +21,21 @@ So, who I am
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharth7899&theme=github&count_private=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Siddharth7899" alt="Siddharth7899" /></a> </p>
 -->
+<br/>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=manglam16&style=for-the-badge&color=brightgreen" alt="watching_count" />
+ </p>
+<br/>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/siddharth-yadav-472a62201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit-" height="30" width="40" /></a>
-<a href="https://instagram.com/sid_yadav7899" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpitgupta1014" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddharth_1109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpitgupta1014" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Sid_7899" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpitgupta1014" height="30" width="40" /></a>
 
+### Connect with me
+
+<p>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/siddharth-yadav-472a62201/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:sidyyadav7899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+&emsp;
 </p>
 
 <h3>Languages and Tools</h3>
