@@ -16,7 +16,7 @@ So, who I am
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth7899&theme=tokyonight&count_private=true)
 
-<a href="https://github.com/Siddharth7899/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth7899&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Siddharth7899/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth7899&layout=compact&theme=dark&hide_border=true" /></a>
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharth7899&theme=github&count_private=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Siddharth7899" alt="Siddharth7899" /></a> </p>
@@ -25,8 +25,7 @@ So, who I am
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=manglam16&style=for-the-badge&color=brightgreen" alt="watching_count" />
  </p>
-<br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/siddharth-yadav-472a62201/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
