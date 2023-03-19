@@ -27,9 +27,6 @@ So, who I am
  </p>
 <br/>
 <h3 align="left">Connect with me:</h3>
-
-### Connect with me
-
 <p>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/siddharth-yadav-472a62201/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
